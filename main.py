@@ -2,7 +2,7 @@ import streamlit as st
 from groq import Groq
 
 st.set_page_config(page_title="CHATBOT IA", page_icon="🎃")
-st.title("Sitio con python")
+st.title("Subzero's python site")
 
 nombre = st.text_input("¿Cómo te llamas máquina?")
 
